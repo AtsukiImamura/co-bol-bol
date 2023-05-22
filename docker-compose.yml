@@ -1,0 +1,6 @@
+app:
+  image: imam/co-bol:latest
+  ports:
+    - "8081:8081"
+  volumes:
+    - C:\Users\ohmoo\projects\co-bol-bol:/app
